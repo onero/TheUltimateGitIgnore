@@ -867,7 +867,6 @@ dev/tests/functional
 
 
 ### Joomla ###
-/.gitignore
 /administrator/cache/*
 /administrator/components/com_admin/*
 /administrator/components/com_ajax/*

@@ -1,6 +1,16 @@
 
 # Created by Adamino @ https://www.gitignore.io/api/java,android,netbeans,intellij,windows,csharp,wordpress,drupal,sass,linux,bluej,unity,unrealengine,grunt,yeoman,adobe,c++,bower,coffeescript,composer,eclipse,jetbrains,magento,joomla,laravel,lua,meteorjs,node,kobalt,python,objective-c,rails,swift,visualstudio,umbraco,visualstudiocode,webstorm,xamarinstudio,xcode,sublimetext
 
+### YOUR_PROJECT ###
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
 ### Eclipse ###
 
 .metadata
@@ -83,15 +93,6 @@ bh_unicode_properties.cache
 # Sublime-github package stores a github token in this file
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
-
-
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
 
 
 ### Intellij ###
